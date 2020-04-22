@@ -39,8 +39,7 @@ class Screen4 extends StatelessWidget {
               label: 'EDIT',
               backgroundColor: Color(0xfff2f1ef),
               textColor: Colors.black,
-              onPressed: () => Navigator.push(
-                  context, MaterialPageRoute(builder: (_) => Screen4())),
+              onPressed: () {},
             ),
           ],
         ),
